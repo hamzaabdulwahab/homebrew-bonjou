@@ -1,12 +1,12 @@
 class Bonjou < Formula
   desc "Terminal-based LAN chat application with peer discovery"
   homepage "https://github.com/hamzaabdulwahab/bonjou-cli"
-  version "1.0.0"
+  version "1.1.0"
   license "MIT"
 
   on_macos do
-    url "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v1.0.0/bonjou-macos"
-    sha256 "b6389991ea39660ec92447330bfa7262bd55c772accd6c0830645fa8c71cf155"
+    url "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v1.1.0/bonjou-macos"
+    sha256 "ba2b2d6bfa00ba59a7556c47f7665851c622b7ee4b605b080d2380377b3eef51"
   end
 
   def install
