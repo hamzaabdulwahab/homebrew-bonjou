@@ -6,7 +6,7 @@ class Bonjou < Formula
 
   on_macos do
     url "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v1.0.0/bonjou-macos"
-    sha256 "72332a2209f01ee0b9d192500293088e99a435fff22608df30d77b187d381fac"
+    sha256 "b6389991ea39660ec92447330bfa7262bd55c772accd6c0830645fa8c71cf155"
   end
 
   def install
