@@ -2,7 +2,6 @@ class Bonjou < Formula
   desc "Terminal-based LAN chat and transfer application"
   homepage "https://github.com/hamzaabdulwahab/bonjou-cli"
   version "1.2.0"
-  license "MIT"
 
   on_macos do
     url "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v1.2.0/bonjou-macos"
